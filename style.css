@@ -1,0 +1,59 @@
+/*head*/
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  #head {
+    height: 760px;
+    background-size: fit !important;
+    max-width: 1535px;
+    
+    background-image: url('BG-CL.png');
+    background-size: cover;
+  }
+  
+  /*NavBar*/
+  #nav {
+    padding-top: 20px;
+  }
+  .bg-light {
+    background-color:inherit !important;
+  }
+  
+  #logo{
+      margin-right: 40px;
+  }
+
+  .nav-item{
+      margin-right: 17px;
+  }
+  
+  #b1 {
+    font-family: "Saira Semi Condensed", sans-serif !important;
+    margin-left: 10px;
+  }
+  
+  #navbutton {
+    background-color: inherit;
+    border-radius: 20px;
+    border-color: aliceblue;
+    width: 120px;
+    
+  }
+  
+  #navbutton:hover {
+    background-color: #5a2483;
+  }
+
+  
+  
+  /*SERVICES*/
+
+  #services{
+      background-color: white;
+      height: 760px;
+      background-size: fit !important;
+      max-width: 1535px;
+      background-size: cover;
+  } 
